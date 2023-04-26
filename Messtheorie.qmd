@@ -94,7 +94,7 @@ close(fileConn)
 ![](img/KMessungLF.png){.fragment width="60%" fig-align="center"}
 :::
 
-## Messung als Homomorphismus {.smaller}
+## Messung als Homomorphismus {.smaller .center}
 
 ::: {.r-stack}
 
